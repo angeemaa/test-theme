@@ -1,0 +1,1 @@
+test-theme ist im Ordner: Local Sites\bedrock\app\bedrock\web\app\themes\
